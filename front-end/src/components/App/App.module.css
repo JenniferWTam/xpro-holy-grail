@@ -1,0 +1,36 @@
+.app {
+    background: gainsboro;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+flex: 1;
+background: paleturquoise;
+}
+
+.body {
+flex: 2;
+display: flex;
+}
+
+.footer {
+flex: 1;
+background: paleturquoise;
+}
+
+.menu {
+flex: 1;
+background: azure;
+}
+
+.content {
+flex: 2;
+background: powderblue;
+}
+
+.ad {
+flex: 1;
+background: azure;
+}
